@@ -41,5 +41,5 @@ This page is a website for IT-Off Topics, a platform for exploring the world of 
 - **Recent Updates**: The page displays the latest notices and updates from IT-Off Topics, such as time table, activities, classes, and events. It also provides links to access more information.
 - **Developers**: The page acknowledges the contributions of five developers who are behind IT-Off Topics: Yash Joshi, Pankaj Rawat, Prajwal Sharma, Anshul Rawat, and Aman Singh. It also lists the languages, resources, and frameworks they used to create the platform.
 - **ITinas**: The page presents a table of 32 students who are part of IT-Off Topics, along with their names, roll numbers, remarks, and pending work. It also provides a link to clear the console and access more details about the students.
-- **Contact**: The page provides the contact information of IT-Off Topics, such as phone number, email address, and physical location. It also displays the logo and the slogan of the platform.
+- **Contact**: The page provides the contact information of IT-Off Topics, such as phone number, email address, and physical location. 
 
