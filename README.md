@@ -2,6 +2,18 @@
 
 IT-Off Topics is a website that explores the world of doubt queries and all things related to IT. It aims to share knowledge, solve code, notices and mysteries and unravel tech's complexities. It also provides a student console for IT students to check their remarks and pending work.
 
+## About the project
+
+The IITinas website is a platform for the IT students to showcase their projects, achievements, and activities. The website features:
+
+- A homepage with a brief introduction of the department and the project team
+- A notice board with the latest announcements and events
+- A timetable page with the class schedule and exam dates
+- A teachers page with the profiles and contact details of the faculty members
+- An admins page with the profiles and contact details of the administrative staff
+- A working page with the details of the ongoing and completed projects by the students
+- An about page with the history and vision of the department
+
 ## Features
 
 - See what's new in the IT field and join the WhatsApp group for discussions
