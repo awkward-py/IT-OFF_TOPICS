@@ -1,6 +1,6 @@
 # IT-Off Topics
 
-IT-Off Topics is a website that explores the world of doubt queries and all things related to IT. It aims to share knowledge, solve code, notices and mysteries and unravel tech's complexities. It also provides a student console for IT students to check their remarks and pending work.
+IT-Off Topics is a website that explores the world of doubt queries and all things related to IT. It aims to share knowledge, solve code, noticesand mysteries and unravel tech's complexities. It also provides a student console for IT students to check their remarks and pending work.
 
 ## About the project
 
